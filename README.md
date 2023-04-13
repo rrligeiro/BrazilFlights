@@ -43,3 +43,12 @@ __main__(date_range = '2023-01-01/2023-01-01', transport_object = 'CARGA')
 ### date_range = '2023-01-01/2023-01-01', departure_hour_range = '10:00-11:00'
 
 ![Figure_1](https://user-images.githubusercontent.com/55093266/231880913-13162aae-f9f7-483a-8b48-b30f3a715e67.png)
+
+### date_range = '2023-01-01/2023-01-01', code_state=['SP', 'MG']
+
+![Figure_1](https://user-images.githubusercontent.com/55093266/231881745-b380f01d-190c-4e13-bf78-03adf48c55c9.png)
+
+### date_range = '2023-01-01/2023-01-01', transport_object='CARGA'
+
+![Figure_1](https://user-images.githubusercontent.com/55093266/231882059-16098388-6198-4b43-9a5a-70f0a25dc58b.png)
+
