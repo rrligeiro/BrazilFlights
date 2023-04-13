@@ -11,7 +11,7 @@ On the main function you can pass 4 parameters to make the flights graph
 On this parameter you can pass a date range, following this pattern '2023-01-01/2023-01-02', to get all flights on this range
 
 ```python
-__main__(date_range = '2023-04-10/2023-04-10')
+__main__(date_range = '2023-01-01/2023-01-02')
 ```
 
 ### departure_hour_range
