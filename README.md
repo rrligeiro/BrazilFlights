@@ -1,8 +1,8 @@
 # BrazilFlights
 
-BrazilFlights is an application that creates a graph of selected flights using the networkx library
+Brazil Flights is an application that creates a graph of selected flights using the NetworkX library
 
-The application is based on extract data from ANAC public [database](https://www.anac.gov.br/acesso-a-informacao/dados-abertos/areas-de-atuacao/voos-e-operacoes-aereas/registro-de-servicos-aereos/49-registro-de-servicos-aereos) and make graphs with NetworkX library
+The application is based on extract data from ANAC public [database](https://www.anac.gov.br/acesso-a-informacao/dados-abertos/areas-de-atuacao/voos-e-operacoes-aereas/registro-de-servicos-aereos/49-registro-de-servicos-aereos) and make from it
 
 ## Filters
 
