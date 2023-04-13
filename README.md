@@ -40,3 +40,6 @@ __main__(date_range = '2023-01-01/2023-01-01', transport_object = 'CARGA')
 
 ## Examples
 
+### date_range = '2023-01-01/2023-01-01', departure_hour_range = '10:00-11:00'
+
+![Figure_1](https://user-images.githubusercontent.com/55093266/231880913-13162aae-f9f7-483a-8b48-b30f3a715e67.png)
